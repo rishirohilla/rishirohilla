@@ -1,99 +1,186 @@
-<!-- Title -->
-<h1 align="center">👩‍💻 Welcome to My Code Wonderland!</h1>
-<h2 align="center">Rishi Rohilla</h2>
+<div align="center">
 
-<!-- Subtitle -->
-<p align="center">Passionate about coding, creating, and exploring the digital universe.</p>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rishi%20Rohilla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Competitive%20Programmer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=50"/>
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-Tech%20Enthusiast-0055ff?style=for-the-badge&logo=coder&logoColor=white" alt="Tech Enthusiast Badge" />
-  <img src="https://img.shields.io/badge/-Code%20Artisan-ffae42?style=for-the-badge&logo=codepen&logoColor=white" alt="Code Artisan Badge" />
-  <img src="https://img.shields.io/badge/-Digital%20Explorer-00cc99?style=for-the-badge&logo=expedia&logoColor=white" alt="Digital Explorer Badge" />
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Welcome+to+My+Code+Wonderland!+%F0%9F%9A%80;Building+the+Future;Passionate+Problem+Solver+%F0%9F%92%BB;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" /></a>
+
+<!-- Futuristic Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00d9ff?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Lives-India-ff6b6b?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-4ade80?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1a2e" />
 </p>
 
-<!-- Contact Me -->
-<h3 align="center">📫 Connect with Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rishirohilla88/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/rishirohillaa_" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/rishirohilla05" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" height="40" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/rishirohilla12" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/rishirohilla_cs41/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
-  </a>
+<!-- Portfolio Button -->
+<a href="https://rishi-rohilla-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-ff00ff?style=for-the-badge&logoColor=white&labelColor=000000" alt="Portfolio" />
+</a>
+
+</div>
+
+---
+
+
+<!-- About Me Section with Animation -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
+
+<div>
+
+### 👨‍💻 Full Stack Developer | 🧩 Problem Solver | 🚀 Tech Enthusiast
+
+I'm passionate about building scalable web applications and solving complex algorithmic challenges. Currently focused on creating impactful full-stack solutions using modern technologies.
+
+
+
+</div>
+
+<br clear="right"/>
+
+
+---
+
+<!-- Tech Stack Section -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"/> Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-<!-- Skills -->
-<h3 align="center">🛠️ Skills & Tools</h3>
-<p align="center">
-  <!-- Add icons for your skills and tools here -->
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="40" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/database.png" alt="Databases" height="40" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/code.png" alt="Coding" height="40" width="40" />
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+### 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-[![An image of @xrishiii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xrishiii)](https://holopin.io/@xrishiii)
-<!-- Portfolio Link -->
+### ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<!-- Coding Profiles Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> Competitive Programming
+
+<div align="center">
+
+| Platform | Profile | Stats |
+|----------|---------|-------|
+| <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="25"/> **LeetCode** | [@rishirohilla_cs41](https://leetcode.com/u/rishirohilla_cs41/) | ![LeetCode Stats](https://img.shields.io/badge/Problems%20Solved-250+-orange?style=flat-square) |
+| <img src="https://img.icons8.com/color/48/000000/codechef.png" width="25"/> **CodeChef** | [@rishirohilla05](https://www.codechef.com/users/rishirohilla05) | ![CodeChef](https://img.shields.io/badge/Rating-1800+-purple?style=flat-square) |
+| <img src="https://art.npanuhin.me/SVG/Codeforces/codeforces.svg" width="25"/> **Codeforces** | [@rishirohilla12](https://codeforces.com/profile/rishirohilla12) | ![Codeforces](https://img.shields.io/badge/Max%20Rating-1500+-blue?style=flat-square) |
+
+</div>
+
+---
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<!-- Stats Cards -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishirohilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishirohilla&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&cache_seconds=86400"/>
+
+<!-- Streak Stats -->
+<img width="90%" src="https://streak-stats.demolab.com/?user=rishirohilla&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff"/>
+
+<!-- Activity Graph -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishirohilla&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+
+<!-- Holopin Badges -->
+## 🎖️ Badges & Achievements
+
+<div align="center">
+  <!-- Updated Holopin username to match your actual Holopin account -->
+  <a href="https://holopin.io/@xrishiii">
+    <img src="https://holopin.me/xrishiii" alt="Holopin Badges"/>
+  </a>
+</div>
+
+---
+
+<!-- Connect Section -->
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://rishi-rohilla-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/rishirohilla88/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/rishirohillaa_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://leetcode.com/u/rishirohilla_cs41/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://www.codechef.com/users/rishirohilla05" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+<a href="https://codeforces.com/profile/rishirohilla12" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+
+<br/><br/>
+
+### 💬 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+
+### 📈 Profile Views
+<img src="https://komarev.com/ghpvc/?username=rishirohilla&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<!-- Animated Footer Text -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Thanks+for+visiting!+Happy+Coding!+%E2%9C%A8;%F0%9F%92%BB+Always+learning%2C+always+growing+%F0%9F%93%88;%F0%9F%9A%80+Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer Typing SVG" />
+</div>
