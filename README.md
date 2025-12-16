@@ -118,8 +118,7 @@ I'm passionate about building scalable web applications and solving complex algo
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishirohilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&cache_seconds=86400"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishirohilla&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&cache_seconds=86400"/>
 
-<!-- Streak Stats -->
-<img width="90%" src="https://streak-stats.demolab.com/?user=rishirohilla&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff"/>
+
 
 <!-- Activity Graph -->
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishirohilla&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true"/>
